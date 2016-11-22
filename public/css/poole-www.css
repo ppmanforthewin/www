@@ -62,8 +62,8 @@ hr {
   padding: 0 2rem;
 }
 .theme {
-  float: left;
-  width: 33%;
+  float: center;
+  width: 50%;
   padding: 0 1rem;
 }
 .theme h3 {
